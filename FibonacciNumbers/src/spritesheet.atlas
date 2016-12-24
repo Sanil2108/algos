@@ -1,0 +1,13 @@
+spritesheet.png 
+format: RGBA8888 
+filter: Nearest,Nearest 
+repeat: none 
+0001 
+  rotate: false 
+  xy: 1, 651 
+  size: 192, 128 
+  orig: 192, 128 
+  offset: 0, 0 
+  index: -1 
+0002 
+  rotate: false
